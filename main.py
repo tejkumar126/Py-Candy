@@ -8,11 +8,6 @@ import random
 import logging
 import datetime
 import time
-from bs4 import BeautifulSoup as bs4
-from selenium import webdriver
-from threading import Thread
-from subprocess import call 
-from itertools import cycle
 from colorama import Fore
 from sys import platform
 from PIL import Image
